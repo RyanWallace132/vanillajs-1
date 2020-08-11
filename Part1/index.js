@@ -70,3 +70,7 @@ function play(clickedId) {
       }
     
 }
+function reset() {
+    currentPlayer = 0;
+    
+}
